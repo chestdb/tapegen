@@ -10,8 +10,7 @@ dependencies:
   analyzer: ^0.41.1
   build: "1.6.2"
   build_config: ">=0.4.5 <1.0.0"
-  chest: # 0.0.4-0
-    path: ../chest
+  chest: ^0.1.0-0
   meta: ^1.1.0
   source_gen: ^0.9.0
 
